@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Blinkeu's official manual for our Mod Mail bot
+Since there are a couple of stages, we ask you to kindly read everything below before doing anything.
 
-You can use the [editor on GitHub](https://github.com/yummyinmytummylolprivate5932020/blinkeumanual/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Stage 1 -How it works/what it does.-
+Mod Mail is our bot that was made specificly for our server to work to our likings. 
+The bot works like this:
+An user needs help so he/she/they dm the bot. 
+> the bot gets the message and sends it to us back and creates a channel with their name#theirtag.
+> You have some choices to do such as replying, ending it etc.
+>NOTE: EVERYTHING YOU REPLY/THEY SEND ARE LOGGED AND IF FOUND TO BE USED WRONGLY WILL BE USED AGAINST YOU DURING INVESTIGATIONS<
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Stage 2: How to use the bot
 
-```markdown
-Syntax highlighted code block
+>To reply firstly start your message with: +reply then enter your message after that you want to send. Your message will now be sent to them.
+>To close the conversation/end use the following command: +close
 
-# Header 1
-## Header 2
-### Header 3
+### Stage 3: Guidelines
+>If the user is spamming/abusing the bot's intentional use, immidentaly do the command +block and they will no longer have access to sending more messages. 
+>>>After this please go on bot-logs -> use the command +logs @theirusername#theirtag and an url will be shown, click on that url and screenshot the conversations and send them to @🌸kingpat.
 
-- Bulleted
-- List
+>Abusing the bots intentional use such as blocking people without it being necessary/for no reason will lead to your administration role being removed.
 
-1. Numbered
-2. List
+>Anything you send and receive will be logged and used against you if found to be abuse of the services.
 
-**Bold** and _Italic_ and `Code` text
+>The bot is run by @🌸kingpat and any bot issues/ bugs should only be reported to @🌸kingpat.
 
-[Link](url) and ![Image](src)
-```
+>The bot is not an tool and you shouldn't be using it for fun.
+__
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yummyinmytummylolprivate5932020/blinkeumanual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>Please contact @🌸kingpat if your wondering about anything, should there be an issue or something you dont understand then please take contact.
